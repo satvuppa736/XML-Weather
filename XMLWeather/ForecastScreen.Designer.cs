@@ -62,7 +62,7 @@
             this.forecastLabel.BackColor = System.Drawing.Color.Transparent;
             this.forecastLabel.Cursor = System.Windows.Forms.Cursors.Hand;
             this.forecastLabel.Font = new System.Drawing.Font("Bahnschrift SemiBold", 16.8F, System.Drawing.FontStyle.Bold);
-            this.forecastLabel.ForeColor = System.Drawing.Color.White;
+            this.forecastLabel.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.forecastLabel.Location = new System.Drawing.Point(504, 16);
             this.forecastLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.forecastLabel.Name = "forecastLabel";
@@ -75,7 +75,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label3.Font = new System.Drawing.Font("Bahnschrift SemiBold", 16.8F, System.Drawing.FontStyle.Bold);
-            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label3.Location = new System.Drawing.Point(344, 16);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
@@ -87,7 +87,7 @@
             // min1
             // 
             this.min1.AutoSize = true;
-            this.min1.BackColor = System.Drawing.Color.White;
+            this.min1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.min1.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
             this.min1.ForeColor = System.Drawing.Color.Black;
             this.min1.Location = new System.Drawing.Point(193, 278);
@@ -101,7 +101,7 @@
             this.minLabel.AutoSize = true;
             this.minLabel.BackColor = System.Drawing.Color.Transparent;
             this.minLabel.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.minLabel.ForeColor = System.Drawing.Color.White;
+            this.minLabel.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.minLabel.Location = new System.Drawing.Point(10, 275);
             this.minLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.minLabel.Name = "minLabel";
@@ -112,7 +112,7 @@
             // max1
             // 
             this.max1.AutoSize = true;
-            this.max1.BackColor = System.Drawing.Color.White;
+            this.max1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.max1.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
             this.max1.ForeColor = System.Drawing.Color.Black;
             this.max1.Location = new System.Drawing.Point(193, 239);
@@ -126,7 +126,7 @@
             this.maxLabel.AutoSize = true;
             this.maxLabel.BackColor = System.Drawing.Color.Transparent;
             this.maxLabel.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.maxLabel.ForeColor = System.Drawing.Color.White;
+            this.maxLabel.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.maxLabel.Location = new System.Drawing.Point(12, 239);
             this.maxLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.maxLabel.Name = "maxLabel";
@@ -138,7 +138,7 @@
             // 
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.Color.White;
+            this.label5.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label5.Location = new System.Drawing.Point(462, 27);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
@@ -152,7 +152,7 @@
             this.date1.AutoSize = true;
             this.date1.BackColor = System.Drawing.Color.Transparent;
             this.date1.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.date1.ForeColor = System.Drawing.Color.White;
+            this.date1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.date1.Location = new System.Drawing.Point(11, 206);
             this.date1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.date1.Name = "date1";
@@ -165,7 +165,7 @@
             this.date2.AutoSize = true;
             this.date2.BackColor = System.Drawing.Color.Transparent;
             this.date2.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.date2.ForeColor = System.Drawing.Color.White;
+            this.date2.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.date2.Location = new System.Drawing.Point(331, 206);
             this.date2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.date2.Name = "date2";
@@ -176,7 +176,7 @@
             // min2
             // 
             this.min2.AutoSize = true;
-            this.min2.BackColor = System.Drawing.Color.White;
+            this.min2.BackColor = System.Drawing.Color.WhiteSmoke;
             this.min2.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
             this.min2.ForeColor = System.Drawing.Color.Black;
             this.min2.Location = new System.Drawing.Point(512, 278);
@@ -190,7 +190,7 @@
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.label4.ForeColor = System.Drawing.Color.White;
+            this.label4.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label4.Location = new System.Drawing.Point(330, 275);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
@@ -201,7 +201,7 @@
             // max2
             // 
             this.max2.AutoSize = true;
-            this.max2.BackColor = System.Drawing.Color.White;
+            this.max2.BackColor = System.Drawing.Color.WhiteSmoke;
             this.max2.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
             this.max2.ForeColor = System.Drawing.Color.Black;
             this.max2.Location = new System.Drawing.Point(512, 242);
@@ -215,7 +215,7 @@
             this.label7.AutoSize = true;
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label7.Location = new System.Drawing.Point(331, 239);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
@@ -227,7 +227,7 @@
             // 
             this.cityOutput.BackColor = System.Drawing.Color.Transparent;
             this.cityOutput.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.cityOutput.ForeColor = System.Drawing.Color.White;
+            this.cityOutput.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.cityOutput.Location = new System.Drawing.Point(7, 16);
             this.cityOutput.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.cityOutput.Name = "cityOutput";
@@ -240,7 +240,7 @@
             this.date3.AutoSize = true;
             this.date3.BackColor = System.Drawing.Color.Transparent;
             this.date3.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.date3.ForeColor = System.Drawing.Color.White;
+            this.date3.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.date3.Location = new System.Drawing.Point(11, 431);
             this.date3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.date3.Name = "date3";
@@ -251,7 +251,7 @@
             // min3
             // 
             this.min3.AutoSize = true;
-            this.min3.BackColor = System.Drawing.Color.White;
+            this.min3.BackColor = System.Drawing.Color.WhiteSmoke;
             this.min3.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
             this.min3.ForeColor = System.Drawing.Color.Black;
             this.min3.Location = new System.Drawing.Point(192, 500);
@@ -265,7 +265,7 @@
             this.label12.AutoSize = true;
             this.label12.BackColor = System.Drawing.Color.Transparent;
             this.label12.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.label12.ForeColor = System.Drawing.Color.White;
+            this.label12.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label12.Location = new System.Drawing.Point(10, 500);
             this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label12.Name = "label12";
@@ -276,7 +276,7 @@
             // max3
             // 
             this.max3.AutoSize = true;
-            this.max3.BackColor = System.Drawing.Color.White;
+            this.max3.BackColor = System.Drawing.Color.WhiteSmoke;
             this.max3.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
             this.max3.ForeColor = System.Drawing.Color.Black;
             this.max3.Location = new System.Drawing.Point(192, 467);
@@ -290,7 +290,7 @@
             this.label14.AutoSize = true;
             this.label14.BackColor = System.Drawing.Color.Transparent;
             this.label14.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.label14.ForeColor = System.Drawing.Color.White;
+            this.label14.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label14.Location = new System.Drawing.Point(11, 464);
             this.label14.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label14.Name = "label14";
@@ -302,7 +302,7 @@
             // 
             this.dateLabel.BackColor = System.Drawing.Color.Transparent;
             this.dateLabel.Font = new System.Drawing.Font("Bahnschrift SemiBold", 11.8F, System.Drawing.FontStyle.Bold);
-            this.dateLabel.ForeColor = System.Drawing.Color.White;
+            this.dateLabel.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.dateLabel.Location = new System.Drawing.Point(7, 54);
             this.dateLabel.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.dateLabel.Name = "dateLabel";
@@ -315,7 +315,7 @@
             this.updateTimeLabel.AutoSize = true;
             this.updateTimeLabel.BackColor = System.Drawing.Color.Transparent;
             this.updateTimeLabel.Font = new System.Drawing.Font("Bahnschrift SemiBold", 10F, System.Drawing.FontStyle.Bold);
-            this.updateTimeLabel.ForeColor = System.Drawing.Color.White;
+            this.updateTimeLabel.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.updateTimeLabel.Location = new System.Drawing.Point(7, 85);
             this.updateTimeLabel.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.updateTimeLabel.Name = "updateTimeLabel";
